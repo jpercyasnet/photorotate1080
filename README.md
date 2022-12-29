@@ -7,3 +7,6 @@ Second is to review the images and rotating them if necessary.
 Third is to convert the images to landscape 1920x1080.
 For rotation, the program calls gimp and requires stored gimp parameters to run.
 For the conversion, the program calls imagemagick's convert with black background.
+<img src="images/rot.png" width="800px" />
+<img src="images/ind.png" width="800px" />
+<img src="images/conv.png" width="800px" />
